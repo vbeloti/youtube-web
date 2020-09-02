@@ -3,12 +3,24 @@
   align-items: center;
   justify-content: space-between;
   padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background-color: white;
 }
 
 .header__logo {
   height: 25px;
   object-fit: contain;
   margin-left: 20px;
+}
+
+.header__inputButton {
+  width: 50px !important;
+  background-color: #fafafa;
+  border-left: 1px solid lightgray;
+  border-right: 1px solid lightgray;
+  color: gray;
 }
 
 
@@ -20,10 +32,14 @@
 
 .header__input {
   width: 40%;
-  border: 1px solid black;
+  border: 1px solid lightgray;
 }
 
 .header__input > input {
   flex: 1;
   border: none;
+}
+
+.header__icon {
+  margin-right: 5px;
 }

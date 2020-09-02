@@ -9,66 +9,66 @@ const RecommendedVideos: React.FC = () => {
       <h2>Recomendados</h2>
       <div className="recommendedVideos__videos">
         <Video
-          title="Video TItulo abem  asok qw wqk qpokowqq qkw"
-          views="2.3 Mi Views"
-          timestamp="3 dias atras"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="vINICIUS LINDAO"
-          image="http://i3.ytimg.com/vi/2Tf_kkF4Y-o/maxresdefault.jpg"
+          title="Chris Linton & Cadmium - Slow Down [NCS Release | Lyric Video]"
+          views="1,1 mi"
+          timestamp="há 2 semanas"
+          channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
+          channel="NoCopyrightSounds"
+          image="http://i3.ytimg.com/vi/iiMrs3vOm_w/maxresdefault.jpg"
         />
 
         <Video
-          title="Video TItulo abem  asok qw wqk qpokowqq qkw"
-          views="2.3 Mi Views"
-          timestamp="3 dias atras"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="vINICIUS LINDAO"
-          image="http://i3.ytimg.com/vi/2Tf_kkF4Y-o/maxresdefault.jpg"
+          title="Besomorph x EMM - Afterlife [NCS Release]"
+          views="727 mil"
+          timestamp="há 1 semana"
+          channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
+          channel="NoCopyrightSounds"
+          image="http://i3.ytimg.com/vi/F3B6qKchtzo/hqdefault.jpg"
         />
 
         <Video
-          title="Video TItulo abem  asok qw wqk qpokowqq qkw"
-          views="2.3 Mi Views"
-          timestamp="3 dias atras"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="vINICIUS LINDAO"
-          image="http://i3.ytimg.com/vi/2Tf_kkF4Y-o/maxresdefault.jpg"
+          title="Elektronomia - Breeze [NCS Release]"
+          views="995 mil"
+          timestamp="há 2 semana"
+          channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
+          channel="NoCopyrightSounds"
+          image="http://i3.ytimg.com/vi/abYP-NPLTbw/maxresdefault.jpg"
         />
 
         <Video
-          title="Video TItulo abem  asok qw wqk qpokowqq qkw"
-          views="2.3 Mi Views"
-          timestamp="3 dias atras"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="vINICIUS LINDAO"
-          image="http://i3.ytimg.com/vi/2Tf_kkF4Y-o/maxresdefault.jpg"
+          title="N3WPORT - Power (feat. braev) [NCS Release]"
+          views="68 mil"
+          timestamp="há 2 semanas"
+          channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
+          channel="NoCopyrightSounds"
+          image="http://i3.ytimg.com/vi/h3lwmCGG6Mw/maxresdefault.jpg"
         />
 
         <Video
-          title="Video TItulo abem  asok qw wqk qpokowqq qkw"
-          views="2.3 Mi Views"
-          timestamp="3 dias atras"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="vINICIUS LINDAO"
-          image="http://i3.ytimg.com/vi/2Tf_kkF4Y-o/maxresdefault.jpg"
+          title="James Mercy - Take You On (ft. PhiloSofie) [NCS Release]"
+          views="973 mil"
+          timestamp="há 3 semanas"
+          channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
+          channel="NoCopyrightSounds"
+          image="http://i3.ytimg.com/vi/rJxVgyMI-Pw/maxresdefault.jpg"
         />
 
         <Video
-          title="Video TItulo abem  asok qw wqk qpokowqq qkw"
-          views="2.3 Mi Views"
-          timestamp="3 dias atras"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="vINICIUS LINDAO"
-          image="http://i3.ytimg.com/vi/2Tf_kkF4Y-o/maxresdefault.jpg"
+          title="Jone - Everything [NCS Release]"
+          views="880 mil visualizações"
+          timestamp="há 1 semana"
+          channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
+          channel="NoCopyrightSounds"
+          image="http://i3.ytimg.com/vi/_0YtVIMWrac/maxresdefault.jpg"
         />
 
         <Video
-          title="Video TItulo abem  asok qw wqk qpokowqq qkw"
-          views="2.3 Mi Views"
-          timestamp="3 dias atras"
-          channelImage="https://yt3.ggpht.com/a/AATXAJzTStezZowa-uxQoxa_O1K3I1aBp4liumTP5JMF8wU=s100-c-k-c0xffffffff-no-rj-mo"
+          title="Mangoo - Happi (ft. bby ivy) [NCS Release]"
+          views="1,9 mi"
+          timestamp="há 4 semanas"
+          channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
           channel="vINICIUS LINDAO"
-          image="http://i3.ytimg.com/vi/2Tf_kkF4Y-o/maxresdefault.jpg"
+          image="http://i3.ytimg.com/vi/gQjAEbWZEgU/maxresdefault.jpg"
         />
       </div>
     </div>

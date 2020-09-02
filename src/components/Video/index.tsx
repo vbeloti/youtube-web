@@ -29,7 +29,7 @@ const Video: React.FC<IVideo> = ({
           <h4>{title}</h4>
           <p>{channel}</p>
           <p>
-            {views} • {timestamp}
+            {views} de visualizações • {timestamp}
           </p>
         </div>
       </div>

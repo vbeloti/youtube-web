@@ -6,8 +6,6 @@ import SideBarRow from '../SideBarRow';
 const Sidebar: React.FC = () => {
   return (
     <div className="sidebar">
-      <h1>Sidebar</h1>
-
       <SideBarRow selected icon="home" title="Início" />
       <SideBarRow icon="trending" title="Em Alta" />
       <SideBarRow icon="subscribers" title="Incrições" />

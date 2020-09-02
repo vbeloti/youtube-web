@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import MenuIcon from "@material-ui/icons/Menu";
 import YoutubeLogo from "../../assets/img/youtube.svg";
 import AvatarImg from "../../assets/img/avatar.png";
@@ -9,18 +9,30 @@ import NotificationsIcon from "@material-ui/icons/Notifications";
 import Avatar from "@material-ui/core/Avatar";
 
 import "./styles.css";
+import { Link } from "react-router-dom";
 
 const Header: React.FC = () => {
+  const [inputSearch, setInputSearch] = useState("");
+
   return (
     <div className="header">
       <div className="header__left">
         <MenuIcon />
-        <img className="header__logo" src={YoutubeLogo} alt="YouTube Logo" />
+        <Link to="/">
+          <img className="header__logo" src={YoutubeLogo} alt="YouTube Logo" />
+        </Link>
       </div>
 
       <div className="header__input">
-        <input type="text" placeholder="Pesquisar" />
-        <SearchIcon className="header__inputButton" />
+        <input
+          value={inputSearch}
+          onChange={(e) => setInputSearch(e.target.value)}
+          type="text"
+          placeholder="Pesquisar"
+        />
+        <Link to={`/search/${inputSearch}`}>
+          <SearchIcon className="header__inputButton" />
+        </Link>
       </div>
 
       <div className="header__icons">

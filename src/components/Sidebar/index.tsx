@@ -11,6 +11,7 @@ const Sidebar: React.FC = () => {
       <SideBarRow selected icon="home" title="Início" />
       <SideBarRow icon="trending" title="Em Alta" />
       <SideBarRow icon="subscribers" title="Incrições" />
+      <hr/>
       <SideBarRow icon="library" title="Biblioteca" />
       <SideBarRow icon="history" title="Histórico" />
       <SideBarRow icon="ondemand" title="Seus vídeos" />

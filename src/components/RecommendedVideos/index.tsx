@@ -67,7 +67,7 @@ const RecommendedVideos: React.FC = () => {
           views="1,9 mi"
           timestamp="há 4 semanas"
           channelImage="https://yt3.ggpht.com/a/AATXAJy51Fbo8T1ZRR6b6rAiTpFscFITaC-tiLzypH3IJg=s100-c-k-c0xffffffff-no-rj-mo"
-          channel="vINICIUS LINDAO"
+          channel="NoCopyrightSounds"
           image="http://i3.ytimg.com/vi/gQjAEbWZEgU/maxresdefault.jpg"
         />
       </div>
